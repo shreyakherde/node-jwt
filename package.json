@@ -1,0 +1,19 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "JWT Authentication with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyakherde/node-jwt.git"
+  },
+  "author": "Shreya K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyakherde/node-jwt/issues"
+  },
+  "homepage": "https://github.com/shreyakherde/node-jwt#readme"
+}
